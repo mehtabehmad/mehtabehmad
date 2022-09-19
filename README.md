@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/mehtabehmad/" title="LinkedIn">mehtabehmad</a> <a href="mailto: itsmehtabahmad@gmail.com>itsmehtabahmad@gmail.com</a>
+<a href="https://www.linkedin.com/in/mehtabehmad/" title="LinkedIn"><kbd>mehtabehmad</a></kbd> <a href="mailto: itsmehtabahmad@gmail.com"><b>itsmehtabahmad@gmail.com</b></a>
 <h4>Hey, welcome</h4>
 <h2>I am Mehtab Ahmad</h2>
 <p>I'm a software developer who is passionate about creating different sorts of software, especially websites.</p>
