@@ -3,7 +3,7 @@
 <h2>I am Mehtab Ahmad</h2>
 <p>I'm a software developer who is passionate about creating different sorts of software, especially websites.</p>
 <p>I have a strong interest in programming and problem-solving, and I am constantly learning new things to advance my knowledge and skills.</p>
-<p>Technologies that I am working with: <kbd style="color:springreen">Python</kbd> <kbd>Django</kbd> <kbd>HTML5/CSS3</kbd> <kbd>Bootstrap</kbd> <kbd>Javascript</kbd></p>
+<p>Technologies that I am working with: <b><kbd>Python</kbd></b> <kbd>Django</kbd> <kbd>HTML5/CSS3</kbd> <kbd>Bootstrap</kbd> <kbd>Javascript</kbd> <kbd>Git</kbd></p> 
 <img align="left" alt="mehtabehmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehtabehmad&show_icons=true&hide_border=false" />
 
 <!---
